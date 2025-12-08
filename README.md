@@ -1,2 +1,2 @@
 # zackaryhorton.github.io
-Zackary Horton
+Zack Horton personal website
