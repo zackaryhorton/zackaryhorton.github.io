@@ -97,22 +97,7 @@
 
       <ul>
         <li><a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-        <li><a href="/about" class="{% if page.url == '/about' %}active{% endif %}">About</a></li>
         <li><a href="/projects" class="{% if page.url == '/projects' %}active{% endif %}">Projects</a></li>
-      </ul>
-
-      <!-- Optional auto-generated pages -->
-      <h3 style="font-size:16px; margin-top:30px; color:#666;">Pages</h3>
-      <ul>
-        {% for p in site.pages %}
-          {% if p.title and p.url != "/" %}
-            <li>
-              <a href="{{ p.url }}" class="{% if page.url == p.url %}active{% endif %}">
-                {{ p.title }}
-              </a>
-            </li>
-          {% endif %}
-        {% endfor %}
       </ul>
     </div>
 
