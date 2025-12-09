@@ -4,5 +4,5 @@ layout: default
 permalink: /nonmath
 ---
 
-# Non-Math
+## Non-Math
 Music and other interests.
