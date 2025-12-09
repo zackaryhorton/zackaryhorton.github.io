@@ -4,5 +4,5 @@ layout: default
 permalink: /teaching
 ---
 
-# Teaching
+## Teaching
 Materials relevant to courses I am TAing.
