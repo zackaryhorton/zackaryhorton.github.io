@@ -4,7 +4,7 @@ layout: default
 permalink: /projects
 ---
 
-# Projects
+## Projects
 
 Here are some projects I've worked on.
 
