@@ -1,6 +1,0 @@
-title: Zack Horton
-subtitle: Some work, some personal stuff
-remote_theme: poole/hyde
-
-plugins:
-  - jekyll-remote-theme
