@@ -1,6 +1,6 @@
 ---
 title: Non-Math
-layout: default
+layout: page
 permalink: /nonmath
 ---
 
