@@ -1,3 +1,10 @@
-   .sidebar .lead {
-     font-size: 1rem;
-   }
+.sidebar .lead {
+   font-size: 1rem;
+}
+.profile-photo {
+  width: 8rem;
+  height: 8rem;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
