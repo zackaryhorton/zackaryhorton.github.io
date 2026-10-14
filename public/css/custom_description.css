@@ -8,10 +8,4 @@
   border-radius: 50%;
   margin-bottom: 1rem;
 }
-@media (max-width: 48em) {
-  .sidebar {
-    text-align: left;
-    padding-left: 2rem; 
-  }
-}
 
