@@ -4,7 +4,7 @@ title: Zack Horton
 ---
 
 ### About me
-I am a PhD student in the Department of Mathematics at McGill University co-supervised by Professor Patrick Allen and Professor Henri Darmon. I am interested in Galois deformation theory and automorphic forms. My studies and work are outlined in my [CV](/files/Zackary_Horton_Resume_Sept_2026.pdf).
+I am a PhD student in the Department of Mathematics at McGill University co-supervised by Professor Patrick Allen and Professor Henri Darmon. I am interested in Galois deformation theory and automorphic forms. My studies and work are outlined in my [CV](/files/Zackary_Horton_Resume_September_2026.pdf).
 ### Contact
 Email: zackary.horton[at]mail.mcgill.ca  
 Office: Burnside Hall 1023
