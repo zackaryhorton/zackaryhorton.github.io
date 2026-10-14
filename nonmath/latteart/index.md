@@ -2,6 +2,8 @@
 layout: default
 title: Latte art
 ---
+[Back to Non-math](/nonmath/)
+
 My daily grind
 ![](/latteart/IMG_1287.jpeg)
 ![](/latteart/IMG_1286.jpeg)
