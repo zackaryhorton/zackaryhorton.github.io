@@ -6,5 +6,5 @@ permalink: /projects
 
 ## Projects
 
-Here are some projects I've worked on.
+Here are some projects I've worked on
 
