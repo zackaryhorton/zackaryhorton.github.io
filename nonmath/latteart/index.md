@@ -3,10 +3,11 @@ layout: default
 title: Latte art
 ---
 My daily grind
+![](/latteart/IMG_1287.jpeg)
+![](/latteart/IMG_1286.jpeg)
+![](/latteart/IMG_1416.jpeg)
 ![](/latteart/IMG_0623.jpeg)
-![](/latteart/IMG_1258.jpeg)
 ![](/latteart/IMG_1262.jpeg)
 ![](/latteart/IMG_1269.jpeg)
-![](/latteart/IMG_1286.jpeg)
-![](/latteart/IMG_1287.jpeg)
-![](/latteart/IMG_1416.jpeg)
+![](/latteart/IMG_1258.jpeg)
+
