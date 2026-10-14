@@ -7,7 +7,7 @@ permalink:        pretty
 
 # URL configuration
 url: "https://zackaryhorton.github.io"
-baseurl: ""
+baseurl: "https://zackaryhorton.github.io/home"
 
 # Setup
 title:            'Zack Horton'
