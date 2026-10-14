@@ -2,7 +2,7 @@
 title: Non-Math
 layout: page
 ---
-Other interests!
+Some of my other interests
 
 [Latte art](/nonmath/latteart/)
 
