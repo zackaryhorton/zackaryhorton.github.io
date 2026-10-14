@@ -5,4 +5,4 @@ permalink: /nonmath
 ---
 
 ## Non-Math
-Music and other interests.
+Music and other interests
