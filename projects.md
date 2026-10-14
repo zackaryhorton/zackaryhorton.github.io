@@ -8,4 +8,4 @@ Here are some projects I've worked on
 
 [Finding examples of non-minimal nebetypus relating to Serre's conjecture](/files/Counterexamples_SerreConjecture_2023.pdf)
 
-[Computing zeros of the Riemann zeta function (Undergraduate) ](/files/horton.pdf)
+[Computing zeros of the Riemann zeta function](/files/horton.pdf)
