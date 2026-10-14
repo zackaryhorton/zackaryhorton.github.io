@@ -5,6 +5,10 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
+# URL configuration
+url: "https://zackaryhorton.github.io"
+baseurl: ""
+
 # Setup
 title:            'Zack Horton'
 description:      'Some math, some other stuff'
