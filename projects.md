@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Math
 ---
 Here are some projects I've worked on
 
