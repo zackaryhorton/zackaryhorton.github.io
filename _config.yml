@@ -13,3 +13,5 @@ baseurl: ""
 title:            'Zack Horton'
 description:      'Some math, some other stuff'
 
+plugins:
+  - jekyll-sitemap
