@@ -9,7 +9,6 @@ My daily grind
 ![](/latteart/IMG_1425.jpeg)
 ![](/latteart/IMG_1444.jpeg)
 ![](/latteart/IMG_1459.jpeg)
-![](/latteart/IMG_1286.jpeg)
 ![](/latteart/IMG_1416.jpeg)
 ![](/latteart/IMG_0623.jpeg)
 ![](/latteart/IMG_1262.jpeg)
